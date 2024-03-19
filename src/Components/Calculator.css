@@ -19,9 +19,7 @@
     /* position: relative; */
     grid-template-columns: auto auto auto auto;
     background-color: rgb(0, 0, 0);
-    /* gap: 0.2em; */
-    /* border: 0.2em solid black; */
-    /* padding: 0.2em; */
+
 }
 
 .logic{
@@ -57,7 +55,7 @@
     grid-column: span 2;
 }
 
-#equal{
+#equals{
     grid-row: span 2;
 }
 

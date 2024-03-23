@@ -6,7 +6,7 @@ This is a simple calculator project for all the Math Geeks out there!
 
 - Addition, subtraction, multiplication, and division operations
 - Clear button to reset the calculator
-- Keyboard support for input
+- Responsive for all devices
 
 ## Getting Started
 
